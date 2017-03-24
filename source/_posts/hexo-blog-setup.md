@@ -2,8 +2,8 @@
 title: 用Hexo搭建网站
 date: 2016-05-15 4:30:06
 categories: 
-- 开源
-tags: [hexo,blog,tool]
+- 教程
+tags: [hexo,blog,os,course]
 
 ---
 

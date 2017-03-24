@@ -1,8 +1,7 @@
 ---
 title: ctf-tools
-tags: [ctf,tools,source,practice,sec]
-keywords: [CTF工具]
-categories: [信息安全,工具,CTF,资源]
+tags: [ctf,tools,知乎]
+categories: [信息安全]
 date: 2016-05-19 13:09:28
 ---
 
@@ -14,5 +13,5 @@ date: 2016-05-19 13:09:28
 
 --------
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=27901180&auto=1&height=66"></iframe>
+
 

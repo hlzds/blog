@@ -1,7 +1,7 @@
 ---
 title: ImageMagick-一次简单的漏洞利用
 tags: [ImageMagick,poc,exp]
-categories: [信息安全,漏洞]
+categories: [信息安全]
 date: 2016-05-18 03:37:38
 ---
 ## ImageMagick漏洞

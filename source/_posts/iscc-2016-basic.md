@@ -1,9 +1,8 @@
 ---
-title: 一次CTF实战
+title: iscc2016-CTF实战
 date: 2016-05-16 21:30:06
 categories: 
 - 信息安全
-- CTF
 tags: [iscc,ctf]
 ---
 ##  什么是CTF
@@ -18,7 +17,7 @@ tags: [iscc,ctf]
 ## 开战
 - 网址是[ISCC2016](http://iscc.isclab.org.cn),谁都可以注册，线上赛时间是5.1到5.20（这两天已经有很多人通关了！！）
 
-首先做选择题吧，类似这样：
+首先做选择题吧，类似这样：(图床已经挂了。。)
 ![](http://www.pichost.cn/viewpicture.php?id=e8519640bf784b7886762ccd8fb6ae2b)
 
 什么鬼！这不是计算机网络吗！也太基础了！但是我不会啊！难道还要翻书吗！我才不要！于是开始做关卡列表里的题~

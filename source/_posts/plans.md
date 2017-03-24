@@ -1,7 +1,7 @@
 ---
 title: plans
 tags: [plans]
-categories: [plans]
+categories: [计划]
 date: 2016-05-19 13:13:07
 ---
 ## 2016-05-19

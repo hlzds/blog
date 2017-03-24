@@ -1,8 +1,8 @@
 ---
-title: iterm2+ohmyzsh-乱码
+title: ierm2+ohmyzsh-乱码
 date: 2016-05-18 02:35:32
 tags: [iterm2,乱码,ohmyzsh]
-categories: [工具,配置]
+categories: [教程]
 ---
 
 ## 起因
